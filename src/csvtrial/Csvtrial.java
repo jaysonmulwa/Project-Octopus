@@ -765,4 +765,5 @@ byte data[] = new byte[1024];
       
       
 ///was doing getseason
+	//it can now determine the current season given the time of year and use this info to fetch the appropriate match records. 
 }
